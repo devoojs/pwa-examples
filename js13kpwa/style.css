@@ -52,8 +52,8 @@ a {
 	color: #b12a34;
 }
 header {
-	background: #2d2d2d url(img/bg.png) repeat;
-	border-top: 0.2em solid #a52730;
+	background: #ebebeb;
+	border-top: 0.2em solid #ddd9d9;
 	border-bottom: 0.2em solid #fff;
 }
 header p {
