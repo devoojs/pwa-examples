@@ -4,7 +4,7 @@ var template = "<article>\n\
 	<h3>#POS. NAME</h3>\n\
 	<ul>\n\
 	<li><span>aaa:</span> <strong>AUTHOR</strong></li>\n\
-	<li><span>Twitter:</span> <a href='https://twitter.com/TWITTER'>@TWITTER</a></li>\n\
+	<li><span>tttttt:</span> <a href='https://twitter.com/TWITTER'>@TWITTER</a></li>\n\
 	<li><span>Website:</span> <a href='http://WEBSITE/'>WEBSITE</a></li>\n\
 	<li><span>GitHub:</span> <a href='https://GITHUB'>GITHUB</a></li>\n\
 	<li><span>More:</span> <a href='http://js13kgames.com/entries/SLUG'>js13kgames.com/entries/SLUG</a></li>\n\
